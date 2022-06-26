@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": "google-news-fr",
+    "name": "Google News (France)"
+    },
+    "author": "FRANCE 24",
+    "title": "Pakistan : le Premier ministre Imran Khan renversé par une motion de censure",
+    "description": "Après plusieurs semaines de crise politique au Pakistan, le Premier ministre Imran Khan a été renversé dimanche par une motion de censure votée au Parlement. L'ancienne star du cricket a appelé ses partisans à manifester dans le calme et affirmé qu'il \"n'acce…",
+    "url": "https://www.france24.com/fr/asie-pacifique/20220409-pakistan-le-premier-ministre-imran-khan-renvers%C3%A9-par-une-motion-de-censure",
+    "urlToImage": "https://s.france24.com/media/display/2fad343e-b841-11ec-b46e-005056bfb2b6/w:1280/p:16x9/000_9UX7ZX.jpg",
+    "publishedAt": "2022-04-09T20:23:02+00:00",
+    "content": "Après plusieurs semaines de crise politique au Pakistan, le Premier ministre Imran Khan a été renversé dimanche par une motion de censure votée au Parlement. L'ancienne star du cricket a appelé ses p… [+5223 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Imran Khan ousted as Pakistan's PM after key vote",
+    "description": "The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it.",
+    "url": "http://www.bbc.co.uk/news/world-asia-61055210",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2022-04-09T20:22:21.9829778Z",
+    "content": "Pakistan's Prime Minister Imran Khan has been ousted from power after losing a no-confidence vote in his leadership.\r\nThe vote was held past midnight after opposition parties brought a motion against… [+3252 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": "BBC Sport",
+    "title": "Shane Warne memorial - watch & follow updates",
+    "description": "Watch live coverage and follow text updates and tributes from the state memorial for Australian cricket legend Shane Warne at the Melbourne Cricket Ground.",
+    "url": "http://www.bbc.co.uk/sport/live/cricket/60916236",
+    "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+    "publishedAt": "2022-03-30T08:22:26.498888Z",
+    "content": "Former England bowler and BBC cricket presenter Isa Guha, who became a colleague of Warne's in the commentary box: \"It has been a strange few weeks - a lot of shock and then we did our own tribute at… [+396 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+    "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+    "publishedAt": "2020-04-27T11:41:47Z",
+    "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+    "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+    "publishedAt": "2020-03-30T15:26:05Z",
+    "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+    ]
+    }
